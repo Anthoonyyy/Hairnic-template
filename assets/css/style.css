@@ -74,7 +74,7 @@ img.animated.pulse {
 }
 
 .navbar .navbar-nav .nav-link {
-    margin-right: 45px;
+    margin-right: 45px; 
     padding: 0;
     color: var(--bs-dark);
     font-weight: 500;
@@ -136,6 +136,8 @@ img.animated.pulse {
     padding-bottom: 6rem;
     background: url(../img/bg.png) center center no-repeat;
     background-size: cover;
+    
+    
 }
 
 .hero-header::before {
@@ -169,6 +171,7 @@ img.animated.pulse {
     left: 0;
     background: rgba(255, 255, 255, .1);
     clip-path: polygon(66% 0, 100% 0, 100% 100%, 33% 100%);
+   
 }
 
 .feature-item .border {
